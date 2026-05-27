@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvarse",
+        "uuid": 20484288,
+        "checksum": "z1dgeo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
